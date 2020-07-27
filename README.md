@@ -13,8 +13,8 @@ it is  a (mine first ml project) machine learning model based on linear regressi
 
 <p>&#187  Flask (Backend)</p>
 
-##Deployed on
- HEROKU CLOUD
+## Deployed on
+   HEROKU CLOUD
 
 ## summary
 it is a regression problem(we used regresion to predict continuous data), we predicted the slary of employees based on their 
