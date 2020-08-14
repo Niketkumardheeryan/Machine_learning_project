@@ -19,6 +19,7 @@ it is  a (mine first ml project) machine learning model based on linear regressi
 ## summary
 it is a regression problem(we used regresion to predict continuous data), we predicted the slary of employees based on their 
 exam scores. 
+## Licence 
 
 
 
