@@ -22,7 +22,8 @@ exam scores.
 ## Licence 
 
 ## contact 
- * Email - niketkumardheeryan@gmail.com 
+ * Email - niketkumardheeryan@gmail.com
+ * LinkedIn - https://linkedin.Com/in/niketkumardheeryan
 ## Related topic
 ## Scope 
 ## upcoming related technologies 
