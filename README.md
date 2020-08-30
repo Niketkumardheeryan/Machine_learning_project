@@ -5,7 +5,7 @@ it is  a (mine first ml project) machine learning model based on linear regressi
 ## Libraries or Tools used
 <p>&#187 pandas or Numpy</p>
 
-<p>&#187 Scikit leaarn </p>
+<p>&#187 Scikit learn </p>
 
 <p>&#187  Html5</p>
 
@@ -19,7 +19,8 @@ it is  a (mine first ml project) machine learning model based on linear regressi
 ## summary
 it is a regression problem(we used regresion to predict continuous data), we predicted the slary of employees based on their 
 exam scores. 
-## Licence 
+## Licence
+ Under @MiT Licence 
 
 ## contact 
  * Email - niketkumardheeryan@gmail.com
